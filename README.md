@@ -1,2 +1,8 @@
-# cross-platform-programming-v.2.2
-Лабораторная работа №5 (2.2)
+## Cross-platform-programming
+> Лабораторная работа №4 по дисциплине "Основы кроссплатформенного программирования"
+## Цель
+> Исследование процесса установки и базовых возможностей языка Python версии 3.x.
+- ИТС-б-о-22-1
+- Баканов Артем
+  
+![](https://techtelegraph.co.uk/wp-content/uploads/2022/10/cross-platform.jpg)
